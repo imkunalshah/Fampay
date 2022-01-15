@@ -27,6 +27,17 @@
 <!-- ABOUT THE PROJECT -->
 ## An android application that displays a list of contextual cards fetched from a REST API call.
 
+* [APK](https://drive.google.com/file/d/1RQTPI7DCejv7EVhYuB_neWve-Lh8Ix8B/view?usp=sharing)
+
+### Added Features
+
+* DialogFragment for confirmation before quitting app with animation.
+* Loading using animation.
+* Evenbus for handling events between viewmodels and activity.
+* Dagger Hilt for dependency injection.
+* Implemented a vibration effect on long press of big card(hc3).
+* Custom Splash Screen.
+
 ![screenshot-1](https://i.imgur.com/3h1jsEs.jpg)
 ![screenshot-2](https://i.imgur.com/9eBIAA8.jpg)
 ![screenshot-3](https://i.imgur.com/tiFtA34.jpg)
