@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dismiss_now">dismiss now</string>
+    <string name="remind_later">remind later</string>
+    <string name="are_you_sure_you_want_to_quit">Are you sure you want to quit?</string>
+    <string name="take_me_back">Take Me Back</string>
+    <string name="quit_app">Quit App</string>
+</resources>
