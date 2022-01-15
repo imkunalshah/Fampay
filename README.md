@@ -27,7 +27,7 @@
 <!-- ABOUT THE PROJECT -->
 ## An android application that displays a list of contextual cards fetched from a REST API call.
 
-* [APK](https://drive.google.com/file/d/1RQTPI7DCejv7EVhYuB_neWve-Lh8Ix8B/view?usp=sharing)
+###[APK](https://drive.google.com/file/d/1RQTPI7DCejv7EVhYuB_neWve-Lh8Ix8B/view?usp=sharing)
 
 ### Added Features
 
@@ -42,6 +42,7 @@
 ![screenshot-2](https://i.imgur.com/9eBIAA8.jpg)
 ![screenshot-3](https://i.imgur.com/tiFtA34.jpg)
 ![screenshot-4](https://i.imgur.com/xrMLf6D.jpg)
+![screenshot-5](https://i.imgur.com/CeFnhpk.jpg)
 
 ### Built With
 
